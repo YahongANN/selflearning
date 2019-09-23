@@ -1,0 +1,36 @@
+吴恩达机器学习课程
+https://www.bilibili.com/video/av50747658/
+吴恩达深度学习课程
+https://mooc.study.163.com/smartSpec/detail/1001319001.htm
+
+机器学习：
+有监督学习（分类，回归）
+1.分类（逻辑回归，svm，树，集成学习）
+2.回归（线性回归）
+无监督学习
+聚类（k-means，高斯混合模型）
+深度学习：
+前向传播，反向传播
+序列模型
+卷积神经网络
+
+预备知识：
+线性代数，统计与概率论，凸优化
+资源：
+线性代数：
+MIT课程 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+清华大学马辉副教授公开课
+https://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X+2019_T1/about
+https://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about
+
+统计与概率论
+http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html
+凸优化：斯坦福大学https://www.youtube.com/view_play_list?p=3940DD956CDF0622
+使用Python进行机器学习：
+https://www.bilibili.com/video/av45547294/?p=1
+
+哥大 机器学习公开课
+http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/
+or
+https://github.com/amueller/COMS4995-s19/
+
